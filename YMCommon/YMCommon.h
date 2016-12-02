@@ -10,4 +10,6 @@
 
 @interface YMCommon : NSObject
 
+-(void)myTestStaticLib;
+
 @end

@@ -10,4 +10,9 @@
 
 @implementation YMCommon
 
+-(void)myTestStaticLib
+{
+    NSLog(@"testing myTest's static library!");
+}
+
 @end
